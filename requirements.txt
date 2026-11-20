@@ -1,0 +1,9 @@
+
+pandas
+matplotlib
+seaborn
+vaderSentiment
+nrclex
+scikit-learn
+wordcloud
+jupyter

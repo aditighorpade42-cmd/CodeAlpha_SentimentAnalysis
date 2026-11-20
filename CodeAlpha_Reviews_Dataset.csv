@@ -1,0 +1,13 @@
+Review,Sentiment,Cleaned_Review,Predicted_Sentiment,Sentiment_Scores,Compound_Score
+This product is amazing and excellent,Positive,this product is amazing and excellent,Positive,"{'neg': 0.0, 'neu': 0.348, 'pos': 0.652, 'compound': 0.8176}",0.8176
+I really love this product,Positive,i really love this product,Positive,"{'neg': 0.0, 'neu': 0.471, 'pos': 0.529, 'compound': 0.6697}",0.6697
+Very good quality and fast delivery,Positive,very good quality and fast delivery,Positive,"{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4927}",0.4927
+Worst product ever,Negative,worst product ever,Negative,"{'neg': 0.672, 'neu': 0.328, 'pos': 0.0, 'compound': -0.6249}",-0.6249
+I am very disappointed,Negative,i am very disappointed,Negative,"{'neg': 0.531, 'neu': 0.469, 'pos': 0.0, 'compound': -0.5256}",-0.5256
+The quality is poor,Negative,the quality is poor,Negative,"{'neg': 0.508, 'neu': 0.492, 'pos': 0.0, 'compound': -0.4767}",-0.4767
+The product is okay,Neutral,the product is okay,Positive,"{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.2263}",0.2263
+It is an average product,Neutral,it is an average product,Neutral,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+The product arrived yesterday,Neutral,the product arrived yesterday,Neutral,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+Excellent quality and wonderful experience,Positive,excellent quality and wonderful experience,Positive,"{'neg': 0.0, 'neu': 0.288, 'pos': 0.712, 'compound': 0.8126}",0.8126
+I hate this product,Negative,i hate this product,Negative,"{'neg': 0.552, 'neu': 0.448, 'pos': 0.0, 'compound': -0.5719}",-0.5719
+"Not bad, but could be better",Neutral,"not bad, but could be better",Positive,"{'neg': 0.0, 'neu': 0.409, 'pos': 0.591, 'compound': 0.698}",0.698
